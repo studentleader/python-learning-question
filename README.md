@@ -1,2 +1,2 @@
 # python-learning-question
-<br> Here we solve python problems
+<br> Here we solve python problems (few logical)
